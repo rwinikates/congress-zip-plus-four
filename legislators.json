@@ -1680,11 +1680,11 @@ define({
         "name": "Jeb Hensarling"
     },
     "H001038": {
-        "example_address": "29 Broadway",
+        "example_address": "726 Exchange Street, Suite 601",
         "example_city": "Buffalo",
         "example_state": "NY",
-        "zip5": "14211",
-        "zip4": "3208",
+        "zip5": "14210",
+        "zip4": "1433",
         "example_district": "26",
         "type": "Rep",
         "name": "Brian Higgins"
