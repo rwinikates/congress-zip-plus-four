@@ -3730,11 +3730,11 @@ define({
         "name": "John Sarbanes"
     },
     "S001170": {
-        "example_address": "59 Elm Street",
-        "example_city": "Manchester",
+        "example_address": "14 Hancock Street",
+        "example_city": "Portsmouth",
         "example_state": "NH",
-        "zip5": "06510",
-        "zip4": "2036",
+        "zip5": "03801",
+        "zip4": "4669",
         "example_district": "1",
         "type": "Rep",
         "name": "Carol Shea-Porter"
