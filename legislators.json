@@ -3460,11 +3460,11 @@ define({
         "name": "Dennis Ross"
     },
     "R000594": {
-        "example_address": "108 Lacey Road",
-        "example_city": "Lacey Township",
+        "example_address": "4167 Church Road",
+        "example_city": "Mount Laurel",
         "example_state": "NJ",
-        "zip5": "08759",
-        "zip4": "1331",
+        "zip5": "08054",
+        "zip4": "2220",
         "example_district": "3",
         "type": "Rep",
         "name": "Jon Runyan"
