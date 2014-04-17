@@ -190,8 +190,8 @@ define({
         "name": "John Barrow"
     },
     "B001255": {
-        "example_address": "404 Route 66 Road",
-        "example_city": "DeQuincy",
+        "example_address": "One Lakeshore Drive",
+        "example_city": "Lake Charles",
         "example_state": "LA",
         "zip5": "70629",
         "zip4": "0114",
