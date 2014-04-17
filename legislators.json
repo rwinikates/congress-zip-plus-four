@@ -1510,11 +1510,11 @@ define({
         "name": "Bob Gibbs"
     },
     "G000564": {
-        "example_address": "78 Center Street",
-        "example_city": "Ellenville",
+        "example_address": "2 Hudson St",
+        "example_city": "Kinderhook",
         "example_state": "NY",
-        "zip5": "01201",
-        "zip4": "6172",
+        "zip5": "12106",
+        "zip4": "2003",
         "example_district": "19",
         "type": "Rep",
         "name": "Christopher Gibson"
