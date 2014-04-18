@@ -640,11 +640,11 @@ define({
         "name": "K. Conaway"
     },
     "C001063": {
-        "example_address": "F-M 3167",
-        "example_city": "Rio Grande City",
+        "example_address": "615 E. Houston Street",
+        "example_city": "San Antonio",
         "example_state": "TX",
-        "zip5": "78582",
-        "zip4": "6688",
+        "zip5": "78205",
+        "zip4": "2001",
         "example_district": "28",
         "type": "Rep",
         "name": "Henry Cuellar"
