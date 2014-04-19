@@ -1503,8 +1503,8 @@ define({
         "example_address": "810 Otsego Avenue",
         "example_city": "Coshocton",
         "example_state": "OH",
-        "zip5": "49770",
-        "zip4": "1780",
+        "zip5": "43005",
+        "zip4": "0002",
         "example_district": "7",
         "type": "Rep",
         "name": "Bob Gibbs"
