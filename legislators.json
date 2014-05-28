@@ -2500,11 +2500,11 @@ define({
         "name": "George Miller"
     },
     "M000933": {
-        "example_address": "200 South Courthouse Road",
+        "example_address": "333 N. Fairfax St",
         "example_city": "Arlington",
         "example_state": "VA",
-        "zip5": "29360",
-        "zip4": "1946",
+        "zip5": "22314",
+        "zip4": "2647",
         "example_district": "8",
         "type": "Rep",
         "name": "James Moran"
