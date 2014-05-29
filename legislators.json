@@ -2123,7 +2123,7 @@ define({
         "example_address": "258 1st Street",
         "example_city": "Fenton",
         "example_state": "MI",
-        "zip5": "13502",
+        "zip5": "48502",
         "zip4": "4636",
         "example_district": "5",
         "type": "Rep",
