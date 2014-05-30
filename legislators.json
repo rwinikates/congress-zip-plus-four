@@ -4426,6 +4426,7 @@ define({
         "zip5": "45177",
         "zip4": "2330",
         "example_district": "",
+        "example_county": "Crawford",
         "type": "Sen",
         "name": "Sherrod Brown"
     },
