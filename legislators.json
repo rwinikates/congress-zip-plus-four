@@ -1,4 +1,4 @@
-define({
+{
     "A000055": {
         "example_address": "1011 George Wallace Boulevard",
         "example_city": "Tuscumbia",
@@ -5380,4 +5380,4 @@ define({
         "type": "Sen",
         "name": "John Walsh"
     }
-})
+}
