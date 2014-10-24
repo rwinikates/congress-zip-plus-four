@@ -2,7 +2,7 @@ Address to use,City,State,Zip,Plus_Four,State,District,Rep_or_Sen,Name,Bio_ID
 1011 George Wallace Boulevard,Tuscumbia,AL,35674,1726,AL,4,Rep,Robert Aderholt,A000055
 110 Michigan Street Northeast,Grand Rapids,MI,49503,2313,MI,3,Rep,Justin Amash,A000367
 400 South Virginia Street,Reno,NV,89501,2116,NV,2,Rep,Mark Amodei,A000369
-PO Box 502 ,Clanton,AL,35046,0502,AL,6,Rep,Spencer Bachus,B000013
+PO Box 502 ,Clanton,AL,35046,502,AL,6,Rep,Spencer Bachus,B000013
 2106 West Ennis Avenue,Ennis,TX,75119,3624,TX,6,Rep,Joe Barton,B000213
 255 East Temple Street,Los Angeles,CA,90012,3334,CA,34,Rep,Xavier Becerra,B000287
 18 9th Street,Columbus,GA,31901,2778,GA,2,Rep,Sanford Bishop,B000490
@@ -10,21 +10,21 @@ PO Box 502 ,Clanton,AL,35046,0502,AL,6,Rep,Spencer Bachus,B000013
 7969 Cincinnati Dayton Road,West Chester Township,OH,45069,6637,OH,8,Rep,John Boehner,B000589
 1202 Sam Houston Avenue,Huntsville,TX,77340,4638,TX,8,Rep,Kevin Brady,B000755
 613 Saint Johns Avenue,Palatka,FL,32177,4643,FL,5,Rep,Corrine Brown,B000911
-63 North Broad Street,Philadelphia,PA,19107,4602,PA,1,Rep,Robert Brady,B001227
+1907 S BROAD ST # 09,PHILADELPHIA,PA,19148,2216,PA,1,Rep,Robert Brady,B001227
 137 Hampton Road,Southampton,NY,11968,4923,NY,1,Rep,Timothy Bishop,B001242
-198 3rd Avenue South,Franklin,TN,37064,2518,TN,7,Rep,Marsha Blackburn,B001243
-Father Duenas Avenue,Hagatna,GU,96910,5058,GU,0,Rep,Madeleine Bordallo,B001245
-1660 Stemmons Freeway,Lewisville,TX,75067,0600,TX,26,Rep,Michael Burgess,B001248
-324 East 2500 South,Ogden,UT,84401,2361,UT,1,Rep,Rob Bishop,B001250
+305 PUBLIC SQ STE 212,FRANKLIN,TN,37064,2584,TN,7,Rep,Marsha Blackburn,B001243
+120 FATHER DUENAS AVE STE 101,HAGATNA,GU,96910,5058,GU,0,Rep,Madeleine Bordallo,B001245
+1660 Stemmons Freeway,Lewisville,TX,75067,600,TX,26,Rep,Michael Burgess,B001248
+324 25TH ST STE 1017,OGDEN,UT,84401,2361,UT,1,Rep,Rob Bishop,B001250
 216 Nash Street Northwest,Wilson,NC,27893,3802,NC,1,Rep,George Butterfield,B001251
 4246 Washington Road,Evans,GA,30809,3087,GA,12,Rep,John Barrow,B001252
-One Lakeshore Drive,Lake Charles,LA,70629,0114,LA,3,Rep,Charles Boustany,B001255
+One Lakeshore Drive,Lake Charles,LA,70629,114,LA,3,Rep,Charles Boustany,B001255
 110 2nd Street South,Waite Park,MN,56387,1313,MN,6,Rep,Michele Bachmann,B001256
 35111 US Highway 19 North,Palm Harbor,FL,34684,1934,FL,12,Rep,Gus Bilirakis,B001257
 501 Sycamore Street,Waterloo,IA,50703,4051,IA,1,Rep,Bruce Braley,B001259
 235 North Orange Avenue,Sarasota,FL,34236,8522,FL,16,Rep,Vern Buchanan,B001260
 PO Box 1017 ,Sandersville,GA,31082,1017,GA,10,Rep,Paul Broun,B001262
-300 Centerville Road,Newville,PA,02886,0212,PA,11,Rep,Lou Barletta,B001269
+300 Centerville Road,Newville,PA,2886,212,PA,11,Rep,Lou Barletta,B001269
 4322 Wilshire Boulevard,Los Angeles,CA,90010,3794,CA,37,Rep,Karen Bass,B001270
 121 East Front Street,Traverse City,MI,49684,2500,MI,1,Rep,Dan Benishek,B001271
 62 East 2nd Street,Crossville,TN,38555,4564,TN,6,Rep,Diane Black,B001273
@@ -44,14 +44,14 @@ PO Box 1017 ,Sandersville,GA,31082,1017,GA,10,Rep,Paul Broun,B001262
 4160 Temescal Canyon Rd,Corona,CA,92883,4625,CA,42,Rep,Ken Calvert,C000059
 135 Ashman Street,Midland,MI,48640,5103,MI,4,Rep,Dave Camp,C000071
 441 Vine Street,Cincinnati,OH,45202,3003,OH,1,Rep,Steve Chabot,C000266
-#1 Estate Cane,St. Croix,VI,00840,4425,VI,0,Rep,Donna Christensen,C000380
-176 Brooks Boulevard,Santee,SC,29142,8644,SC,6,Rep,James Clyburn,C000537
+#1 Estate Cane,St. Croix,VI,840,4425,VI,0,Rep,Donna Christensen,C000380
+130 W MAIN ST,KINGSTREE,SC,29556,3344,SC,6,Rep,James Clyburn,C000537
 1634 North Main Street,High Point,NC,27262,2644,NC,6,Rep,Howard Coble,C000556
 33300 Warren Rd,Westland,MI,48185,9620,MI,13,Rep,John Conyers,C000714
 605 Church Street,Nashville,TN,37219,2314,TN,5,Rep,Jim Cooper,C000754
 8267 Main Street,Ellicott City,MD,21043,9903,MD,7,Rep,Elijah Cummings,C000984
 485 Alisal Road,Solvang,CA,93463,3701,CA,24,Rep,Lois Capps,C001036
-1234 Columbus Avenue,Boston,MA,02120,3400,MA,7,Rep,Michael Capuano,C001037
+1234 Columbus Avenue,Boston,MA,2120,3400,MA,7,Rep,Michael Capuano,C001037
 74-09 37th Avenue,Queens,NY,11372,6303,NY,14,Rep,Joseph Crowley,C001038
 1061 Riverside Avenue,Jacksonville,FL,32204,4151,FL,4,Rep,Ander Crenshaw,C001045
 4201 Dominion Boulevard,Glen Allen,VA,23060,6149,VA,7,Rep,Eric Cantor,C001046
@@ -63,20 +63,20 @@ PO Box 1017 ,Sandersville,GA,31082,1017,GA,10,Rep,Paul Broun,B001262
 2222 M Street,Merced,CA,95340,3729,CA,16,Rep,Jim Costa,C001059
 101 West 31st Street,Kansas City,MO,64108,3318,MO,5,Rep,Emanuel Cleaver,C001061
 33 East Twohig Avenue,San Angelo,TX,76903,6451,TX,11,Rep,K. Conaway,C001062
-615 E. Houston Street,San Antonio,TX,78205,2001,TX,28,Rep,Henry Cuellar,C001063
+800 N BRYANT ST,PLEASANTON,TX,78064,2550,TX,28,Rep,Henry Cuellar,C001063
 26111 Antonio Parkway,Rancho Santa Margarita,CA,92688,5597,CA,45,Rep,John Campbell,C001064
 4144 North Armenia Avenue,Tampa,FL,33607,6435,FL,14,Rep,Kathy Castor,C001066
 123 Linden Boulevard,Brooklyn,NY,11226,3888,NY,9,Rep,Yvette Clarke,C001067
 167 North Main Street,Memphis,TN,38103,1822,TN,9,Rep,Steve Cohen,C001068
-77 Hazard Avenue,Enfield,CT,06082,3890,CT,2,Rep,Joe Courtney,C001069
+77 Hazard Avenue,Enfield,CT,6082,3890,CT,2,Rep,Joe Courtney,C001069
 300 East Fall Creek Parkway North Drive,Indianapolis,IN,46205,4258,IN,7,Rep,Andre Carson,C001072
-PO Box 426 ,Livingston,LA,70754,0426,LA,6,Rep,Bill Cassidy,C001075
+PO Box 426 ,Livingston,LA,70754,426,LA,6,Rep,Bill Cassidy,C001075
 51 South University Avenue,Provo,UT,84601,4491,UT,3,Rep,Jason Chaffetz,C001076
 3300 S. Parker Road,Aurora,CO,80014,3518,CO,6,Rep,Mike Coffman,C001077
-4308 Ridgewood Center Drive,Woodbridge,VA,22192,5307,VA,11,Rep,Gerald Connolly,C001078
+ 4115 ANNANDALE RD STE 103,ANNANDALE,VA,22003,2500,VA,11,Rep,Gerald Connolly,C001078
 87 North Raymond Avenue,Pasadena,CA,91103,3966,CA,27,Rep,Judy Chu,C001080
 201 North Walnut Street,Wilmington,DE,19801,3998,DE,0,Rep,John Carney,C001083
-1070 Main Street,Pawtucket,RI,02860,4974,RI,1,Rep,David Cicilline,C001084
+1070 Main Street,Pawtucket,RI,2860,4974,RI,1,Rep,David Cicilline,C001084
 2400 East Highland Drive,Jonesboro,AR,72401,6229,AR,1,Rep,Eric Crawford,C001087
 101 North Centre Street,Pottsville,PA,17901,2972,PA,17,Rep,Matthew Cartwright,C001090
 6363 De Zavala Road,San Antonio,TX,78249,2104,TX,20,Rep,Joaquin Castro,C001091
@@ -86,22 +86,22 @@ PO Box 426 ,Livingston,LA,70754,0426,LA,6,Rep,Bill Cassidy,C001075
 221 West Main Street,Prescott,AR,71857,3608,AR,4,Rep,Tom Cotton,C001095
 3003 32nd Avenue South,Fargo,ND,58103,6163,ND,0,Rep,Kevin Cramer,C001096
 14546 Hamlin Street,Los Angeles,CA,91411,4102,CA,29,Rep,Tony Cardenas,C001097
-16 Common Street,Watertown,MA,04901,6611,MA,5,Rep,Katherine Clark,C001101
+ 5 HIGH ST STE 101,MEDFORD,MA,2155,3800,MA,5,Rep,Katherine Clark,C001101
 3333 West Arthington Street,Chicago,IL,60624,4102,IL,7,Rep,Danny Davis,D000096
-PO Box 2460 ,Roseburg,OR,97470,0511,OR,4,Rep,Peter DeFazio,D000191
+PO Box 2460 ,Roseburg,OR,97470,511,OR,4,Rep,Peter DeFazio,D000191
 600 Grant Street,Denver,CO,80203,3525,CO,1,Rep,Diana DeGette,D000197
-300 State Street,New Haven,CT,01105,1711,CT,3,Rep,Rosa DeLauro,D000216
+300 STATE ST,NEW HAVEN,CT,6510,3117,CT,3,Rep,Rosa DeLauro,D000216
 301 West Michigan Avenue,Ypsilanti,MI,48197,5450,MI,12,Rep,John Dingell,D000355
 1313 Southeast Military Drive,San Antonio,TX,78214,2850,TX,35,Rep,Lloyd Doggett,D000399
 11 Duff Road,Pittsburgh,PA,15235,3263,PA,14,Rep,Michael Doyle,D000482
 200 East Broadway Avenue,Maryville,TN,37804,5782,TN,2,Rep,John Duncan,D000533
 2700 Adams Avenue,San Diego,CA,92116,1367,CA,53,Rep,Susan Davis,D000598
 4715 Golden Gate Parkway,Naples,FL,34116,6901,FL,25,Rep,Mario Diaz-Balart,D000600
-1101 Airport Road,Bethlehem,PA,19472,1800,PA,15,Rep,Charles Dent,D000604
+6528 FOREST KNOLL CT,ALLENTOWN,PA,18106,9170,PA,15,Rep,Charles Dent,D000604
 5790 Margate Boulevard,Margate,FL,33063,3614,FL,21,Rep,Theodore Deutch,D000610
 3509 Coffee Road,Modesto,CA,95355,1356,CA,10,Rep,Jeff Denham,D000612
 208 Grand Avenue,Wausau,WI,54403,6217,WI,7,Rep,Sean Duffy,D000614
-207 Maxwell Avenue,Anderson,SC,29037,5820,SC,3,Rep,Jeff Duncan,D000615
+303 W BELTLINE BLVD,ANDERSON,SC,29625,1505,SC,3,Rep,Jeff Duncan,D000615
 305 West Main Street,Murfreesboro,TN,37130,3547,TN,4,Rep,Scott DesJarlais,D000616
 204 W. Montgomery Street,Mount Vernon,WA,98273,3843,WA,1,Rep,Suzan DelBene,D000617
 2603 Wheat Drive,Bozeman,MT,56750,4800,MT,0,Rep,Steve Daines,D000618
@@ -115,16 +115,16 @@ PO Box 2460 ,Roseburg,OR,97470,0511,OR,4,Rep,Peter DeFazio,D000191
 5001 Silver Hill Road,Suitland-Silver Hill,MD,20746,5208,MD,4,Rep,Donna Edwards,E000290
 222 Sunset Avenue,Asheboro,NC,27203,5658,NC,2,Rep,Renee Ellmers,E000291
 201 East Nolen Street,West Frankfort,IL,62896,2437,IL,12,Rep,William Enyart,E000292
-50 Washington Road,Woodbury,CT,06051,1012,CT,5,Rep,Elizabeth Esty,E000293
+114 W MAIN ST STE 101,NEW BRITAIN,CT,6051,4223,CT,5,Rep,Elizabeth Esty,E000293
 PO Box 7248,Pago Pago,AS,96799,6296,AS,0,Rep,Eni Faleomavaega,F000010
-701 Ocean Street,Santa Cruz,CA,95060,4027,CA,20,Rep,Sam Farr,F000030
+100 W ALISAL ST UNIT 1,SALINAS,CA,93902,5000,CA,20,Rep,Sam Farr,F000030
 6632 Germantown Avenue,Philadelphia,PA,19119,2250,PA,2,Rep,Chaka Fattah,F000043
-30 Schuyler Place,Morristown,NJ,07960,5193,NJ,11,Rep,Rodney Frelinghuysen,F000372
+30 Schuyler Place,Morristown,NJ,7960,5193,NJ,11,Rep,Rodney Frelinghuysen,F000372
 425 South Main Street,Emporia,VA,23847,2300,VA,4,Rep,J. Forbes,F000445
 7121 West Bell Road,Glendale,AZ,85308,8549,AZ,8,Rep,Trent Franks,F000448
 125 South 4th Street,Norfolk,NE,68701,5200,NE,1,Rep,Jeff Fortenberry,F000449
 6000 Meadowbrook Mall Court,Clemmons,NC,27012,8775,NC,5,Rep,Virginia Foxx,F000450
-1717 Newtown Pike,Langhorne,PA,19047,1086,PA,8,Rep,Michael Fitzpatrick,F000451
+1717 LANGHORNE NEWTOWN RD STE 400,LANGHORNE,PA,19047,1086,PA,8,Rep,Michael Fitzpatrick,F000451
 2701 Black Road,Joliet,IL,60435,8412,IL,11,Rep,Bill Foster,F000454
 4834 Richmond Road,Warrensville Heights,OH,44128,6408,OH,11,Rep,Marcia Fudge,F000455
 6425 Youree Drive,Shreveport,LA,71105,4634,LA,4,Rep,John Fleming,F000456
@@ -134,29 +134,29 @@ PO Box 7248,Pago Pago,AS,96799,6296,AS,0,Rep,Eni Faleomavaega,F000010
 600 Austin Avenue,Waco,TX,76710,2018,TX,17,Rep,Bill Flores,F000461
 3111 South Dixie Highway,West Palm Beach,FL,33405,1553,FL,22,Rep,Lois Frankel,F000462
 7 Court Square,Staunton,VA,24401,4281,VA,6,Rep,Bob Goodlatte,G000289
-1701 River Run Road,Fort Worth,TX,76107,6529,TX,12,Rep,Kay Granger,G000377
+1701 RIVER RUN STE 100,FORT WORTH,TX,76107,6529,TX,12,Rep,Kay Granger,G000377
 256 North Sam Houston Parkway East,Houston,TX,77060,2028,TX,29,Rep,Gene Green,G000410
 3240 W. Fullerton Ave,Chicago,IL,60647,2512,IL,4,Rep,Luis Gutierrez,G000535
 201 South 8th Street,St. Joseph,MO,64501,2275,MO,6,Rep,Sam Graves,G000546
-266 Harristown Road,Glen Rock,NJ,07452,3321,NJ,5,Rep,Scott Garrett,G000548
+266 Harristown Road,Glen Rock,NJ,7452,3321,NJ,5,Rep,Scott Garrett,G000548
 840 North Park Road,Wyomissing,PA,19610,1307,PA,6,Rep,Jim Gerlach,G000549
 219 Roswell Street,Marietta,GA,30060,2063,GA,11,Rep,Phil Gingrey,G000550
-738 North 5th Avenue,Tucson,AZ,85705,8485,AZ,3,Rep,Ra�l Grijalva,G000551
+738 North 5th Avenue,Tucson,AZ,85705,8485,AZ,3,Rep,Raúl Grijalva,G000551
 1121 East Southeast Loop 323,Tyler,TX,75701,9660,TX,1,Rep,Louie Gohmert,G000552
-3003 South Loop West Freeway,Houston,TX,77054,1301,TX,9,Rep,Al Green,G000553
+3003 S LOOP W STE 460,HOUSTON,TX,77054,1382,TX,9,Rep,Al Green,G000553
 101 North Church Street,Kissimmee,FL,34741,5054,FL,9,Rep,Alan Grayson,G000556
 411 West Lincoln Trail Boulevard,Radcliff,KY,40160,2046,KY,2,Rep,Brett Guthrie,G000558
 712 Main Street,Woodland,CA,95695,3478,CA,3,Rep,John Garamendi,G000559
 600 East 1st Street,Rome,GA,30161,3149,GA,14,Rep,Tom Graves,G000560
 109 South 3rd Street,Sterling,CO,80751,4220,CO,4,Rep,Cory Gardner,G000562
-810 Otsego Avenue,Coshocton,OH,49770,1780,OH,7,Rep,Bob Gibbs,G000563
+110 CENTRAL PLZ S STE 104,CANTON,OH,44702,1409,OH,7,Rep,Bob Gibbs,G000563
 2 Hudson Street,Kinderhook,NY,12106,2003,NY,19,Rep,Christopher Gibson,G000564
 240 South Montezuma Street,Prescott,AZ,86303,4712,AZ,4,Rep,Paul Gosar,G000565
 101 West Saint John Street,Spartanburg,SC,29306,5167,SC,4,Rep,Trey Gowdy,G000566
 1501 North University Avenue,Little Rock,AR,72207,5242,AR,2,Rep,Tim Griffin,G000567
 323 West Main Street,Abingdon,VA,24210,2605,VA,9,Rep,H. Griffith,G000568
 265 New Dorp Lane,Staten Island,NY,10306,3005,NY,11,Rep,Michael Grimm,G000569
-300 Ala Moana Blvd,Honolulu,HI,96850,0001,HI,2,Rep,Tulsi Gabbard,G000571
+300 Ala Moana Blvd,Honolulu,HI,96850,1,HI,2,Rep,Tulsi Gabbard,G000571
 103 West Callaghan Street,Fort Stockton,TX,79735,7104,TX,23,Rep,Pete Gallego,G000572
 12851 Southwest 42nd Street,Miami,FL,33175,3436,FL,26,Rep,Joe Garcia,G000573
 4303 Texas Boulevard,Texarkana,TX,75503,3094,TX,4,Rep,Ralph Hall,H000067
@@ -164,12 +164,12 @@ PO Box 7248,Pago Pago,AS,96799,6296,AS,0,Rep,Eni Faleomavaega,F000010
 402 East Yakima Avenue,Yakima,WA,98901,5410,WA,4,Rep,Doc Hastings,H000329
 100 South Austin Street,Seguin,TX,78155,5702,TX,15,Rep,Ruben Hinojosa,H000636
 401 Post Office Road,Waldorf,MD,20602,2738,MD,5,Rep,Steny Hoyer,H000874
-50 Washington Rd,West Windsor,NJ,08550,1031,NJ,12,Rep,Rush Holt,H001032
+50 Washington Rd,West Windsor,NJ,8550,1031,NJ,12,Rep,Rush Holt,H001032
 39300 Civic Center Drive,Fremont,CA,94538,2324,CA,17,Rep,Michael Honda,H001034
 6510 Abrams Road,Dallas,TX,75231,7278,TX,5,Rep,Jeb Hensarling,H001036
-29 Broadway,Buffalo,NY,14211,3208,NY,26,Rep,Brian Higgins,H001038
+726 EXCHANGE ST STE 601,buffalo,NY,14210,1485,NY,26,Rep,Brian Higgins,H001038
 1 Research Boulevard,Starkville,MS,39759,8749,MS,3,Rep,Gregg Harper,H001045
-888 Washington Boulevard,Stamford,CT,06901,2902,CT,4,Rep,James Himes,H001047
+888 Washington Boulevard,Stamford,CT,6901,2902,CT,4,Rep,James Himes,H001047
 41000 Main St.,Temecula,CA,92590,2764,CA,50,Rep,Duncan Hunter,H001048
 300 Ala Moana Boulevard,Honolulu,HI,96850,5104,HI,1,Rep,Colleen Hanabusa,H001050
 131 Main Street,Oneida,NY,13421,1641,NY,22,Rep,Richard Hanna,H001051
@@ -180,7 +180,7 @@ PO Box 7248,Pago Pago,AS,96799,6296,AS,0,Rep,Eni Faleomavaega,F000010
 119 West Iron Avenue,Salina,KS,67402,2600,KS,1,Rep,Tim Huelskamp,H001057
 900 3rd Street,Muskegon,MI,49440,1135,MI,2,Rep,Bill Huizenga,H001058
 1797 West State Street,Geneva,IL,60134,4710,IL,14,Rep,Randy Hultgren,H001059
-1301 Kings Highway,Keysville,VA,65401,3136,VA,5,Rep,Robert Hurt,H001060
+686 BERKMAR CIR,CHARLOTTESVILLE,VA,22901,1464,VA,5,Rep,Robert Hurt,H001060
 140 W 6TH ST,San Pedro,CA,90731,3314,CA,44,Rep,Janice Hahn,H001063
 420 College St SE,Lacey,WA,98503,1238,WA,10,Rep,Denny Heck,H001064
 1300 Saint Marys Street,Raleigh,NC,27605,1276,NC,13,Rep,George Holding,H001065
@@ -207,13 +207,13 @@ PO Box 7248,Pago Pago,AS,96799,6296,AS,0,Rep,Eni Faleomavaega,F000010
 800 Oneida Street,Storm Lake,IA,50588,3209,IA,4,Rep,Steve King,K000362
 350 West Burnsville Parkway,Burnsville,MN,55337,2585,MN,2,Rep,John Kline,K000363
 211 North Florence Street,Casa Grande,AZ,85122,4414,AZ,1,Rep,Ann Kirkpatrick,K000368
-2 Court St,Plymouth,MA,02360,3347,MA,9,Rep,William Keating,K000375
+2 Court St,Plymouth,MA,2360,3347,MA,9,Rep,William Keating,K000375
 208 East Bayfront Parkway,Erie,PA,16507,2405,PA,3,Rep,Mike Kelly,K000376
 415 South Mulford Road,Rockford,IL,61108,3011,IL,16,Rep,Adam Kinzinger,K000378
-29 Crafts Street,Newton,MA,02458,1275,MA,4,Rep,Joseph Kennedy,K000379
+29 Crafts Street,Newton,MA,2458,1275,MA,4,Rep,Joseph Kennedy,K000379
 258 1st Street,Fenton,MI,13502,4636,MI,5,Rep,Daniel Kildee,K000380
 1019 Pacific Avenue,Tacoma,WA,98402,4486,WA,6,Rep,Derek Kilmer,K000381
-18 North Main Street,Concord,NH,03301,2424,NH,2,Rep,Ann Kuster,K000382
+18 North Main Street,Concord,NH,3301,2424,NH,2,Rep,Ann Kuster,K000382
 17926 South Halsted Street,Homewood,IL,60430,2029,IL,2,Rep,Robin Kelly,K000385
 300 East Locust Street,Des Moines,IA,50309,1825,IA,3,Rep,Tom Latham,L000111
 27085 Gratiot Avenue,Roseville,MI,48066,2947,MI,9,Rep,Sander Levin,L000263
@@ -222,31 +222,31 @@ PO Box 7248,Pago Pago,AS,96799,6296,AS,0,Rep,Eni Faleomavaega,F000010
 222 Mamaroneck Avenue,White Plains,NY,10605,1316,NY,17,Rep,Nita Lowey,L000480
 10952 Northwest Expressway,Yukon,OK,73099,8214,OK,3,Rep,Frank Lucas,L000491
 1301 Clay Street,Oakland,CA,94612,5233,CA,13,Rep,Barbara Lee,L000551
-5914 Main Street,Mays Landing,NJ,08330,1746,NJ,2,Rep,Frank LoBiondo,L000554
-221 Main Street,Hartford,CT,06106,1890,CT,1,Rep,John Larson,L000557
-300 Centerville Rd,Warwick,RI,02886,0200,RI,2,Rep,James Langevin,L000559
+5914 Main Street,Mays Landing,NJ,8330,1746,NJ,2,Rep,Frank LoBiondo,L000554
+221 Main Street,Hartford,CT,6106,1890,CT,1,Rep,John Larson,L000557
+300 Centerville Rd,Warwick,RI,2886,200,RI,2,Rep,James Langevin,L000559
 2930 Wetmore Avenue,Everett,WA,98201,4070,WA,2,Rep,Rick Larsen,L000560
-1250 Hancock Street,Quincy,MA,02169,4331,MA,8,Rep,Stephen Lynch,L000562
+1250 Hancock Street,Quincy,MA,2169,4331,MA,8,Rep,Stephen Lynch,L000562
 5309 West 95th Street,Oak Lawn,IL,60453,2444,IL,3,Rep,Daniel Lipinski,L000563
 1271 Kelly Johnson Boulevard,Colorado Springs,CO,80920,3965,CO,5,Rep,Doug Lamborn,L000564
-1 2nd Street,Calamus,IA,08861,4517,IA,2,Rep,David Loebsack,L000565
+209 W 4TH ST # 104,DAVENPORT,IA,52801,1307,IA,2,Rep,David Loebsack,L000565
 100 East Main Cross Street,Findlay,OH,45840,4888,OH,5,Rep,Robert Latta,L000566
-425 North Avenue East,Westfield,NJ,07090,1537,NJ,7,Rep,Leonard Lance,L000567
+425 North Avenue East,Westfield,NJ,7090,1537,NJ,7,Rep,Leonard Lance,L000567
 516 Jefferson Street,Washington,MO,63090,2706,MO,3,Rep,Blaine Luetkemeyer,L000569
 811 Saint Michaels Drive,Santa Fe,NM,87505,7640,NM,3,Rep,Ben Lujan,L000570
 45 East Loucks Street,Sheridan,WY,82801,6331,WY,0,Rep,Cynthia Lummis,L000571
-33 East Broadway Avenue,Meridian,ID,83642,2619,ID,1,Rep,Ra�l Labrador,L000573
+33 East Broadway Avenue,Meridian,ID,83642,2619,ID,1,Rep,Raúl Labrador,L000573
 1015 North Broadway Avenue,Oklahoma City,OK,73102,5849,OK,5,Rep,James Lankford,L000575
-5500 Palisades Avenue,Battlefield,MO,07093,2124,MO,7,Rep,Billy Long,L000576
-280 Hemsted Drive,Redding,CA,96002,0164,CA,1,Rep,Doug LaMalfa,L000578
+3232 E RIDGEVIEW ST,SPRINGFIELD,MO,65804,4076,MO,7,Rep,Billy Long,L000576
+280 Hemsted Drive,Redding,CA,96002,164,CA,1,Rep,Doug LaMalfa,L000578
 100 West Broadway,Long Beach,CA,90802,4486,CA,47,Rep,Alan Lowenthal,L000579
 3211 Coors Boulevard Southwest,Albuquerque,NM,87121,5255,NM,1,Rep,Michelle Lujan Grisham,L000580
 1651 3rd Avenue,New York,NY,10128,3679,NY,12,Rep,Carolyn Maloney,M000087
 300 Garden City Plaza,Garden City,NY,11530,3338,NY,4,Rep,Carolyn McCarthy,M000309
-999 South East Street,Amherst,MA,01002,6246,MA,2,Rep,James McGovern,M000312
-18560 1st Avenue Northeast,Shoreline,WA,98155,2150,WA,7,Rep,Jim McDermott,M000404
-201 North East Street,Roseboro,NC,92401,1520,NC,7,Rep,Mike McIntyre,M000485
-26650 The Old Road,Valencia,CA,91381,0750,CA,25,Rep,Howard McKeon,M000508
+999 South East Street,Amherst,MA,1002,6246,MA,2,Rep,James McGovern,M000312
+1809 7TH AVE STE 801,SEATTLE,WA,98101,1313,WA,7,Rep,Jim McDermott,M000404
+497 OLDE WATERFORD WAY STE 206,LELAND,NC,28451,4183,NC,7,Rep,Mike McIntyre,M000485
+26650 THE OLD RD STE 203,VALENCIA,CA,91381,750,CA,25,Rep,Howard McKeon,M000508
 2461 West State Road 426,Oviedo,FL,32765,4508,FL,7,Rep,John Mica,M000689
 1981 North Broadway,Walnut Creek,CA,94596,3877,CA,11,Rep,George Miller,M000725
 333 N. Fairfax St,Arlington,VA,22314,2647,VA,8,Rep,James Moran,M000933
@@ -255,7 +255,7 @@ PO Box 7248,Pago Pago,AS,96799,6296,AS,0,Rep,Eni Faleomavaega,F000010
 240 East Morris Avenue,Salt Lake City,UT,84115,3296,UT,4,Rep,Jim Matheson,M001142
 6043 Hudson Road,Woodbury,MN,55125,1004,MN,4,Rep,Betty McCollum,M001143
 4300 Bayou Boulevard,Pensacola,FL,32503,2679,FL,1,Rep,Jeff Miller,M001144
-6 State Street,Bangor,ME,04401,5112,ME,2,Rep,Michael Michaud,M001149
+6 State Street,Bangor,ME,4401,5112,ME,2,Rep,Michael Michaud,M001149
 48701 Van Dyke Avenue,Shelby Township,MI,48317,2560,MI,10,Rep,Candice Miller,M001150
 504 Washington Road,Pittsburgh,PA,15228,2817,PA,18,Rep,Tim Murphy,M001151
 311 East Marion Street,Shelby,NC,28151,4611,NC,10,Rep,Patrick McHenry,M001156
@@ -264,13 +264,13 @@ PO Box 7248,Pago Pago,AS,96799,6296,AS,0,Rep,Eni Faleomavaega,F000010
 29 South Palouse Street,Walla Walla,WA,99362,1925,WA,5,Rep,Cathy McMorris Rodgers,M001159
 219 North Milwaukee Street,Milwaukee,WI,53202,5818,WI,4,Rep,Gwen Moore,M001160
 600 I Street,Sacramento,CA,95814,4778,CA,6,Rep,Doris Matsui,M001163
-4100 Empire Drive,Bakersfield,CA,93309,0409,CA,23,Rep,Kevin McCarthy,M001165
+4100 Empire Drive,Bakersfield,CA,93309,409,CA,23,Rep,Kevin McCarthy,M001165
 2222 Grand Canal Boulevard,Stockton,CA,95207,6671,CA,9,Rep,Jerry McNerney,M001166
 100 South Clinton Street,Syracuse,NY,13261,6100,NY,24,Rep,Daniel Maffei,M001171
 8700 Auburn Folsom Road,Auburn,CA,95746,8501,CA,4,Rep,Tom McClintock,M001177
 1000 Commerce Park Drive,Williamsport,PA,17701,5475,PA,10,Rep,Tom Marino,M001179
 1125 Chapline Street,Wheeling,WV,26003,2976,WV,1,Rep,David McKinley,M001180
-107 Old Airport Road,Douglassville,PA,30474,8840,PA,7,Rep,Patrick Meehan,M001181
+107 OLD AIRPORT RD,DOUGLASSVILLE,PA,19518,1023,PA,7,Rep,Patrick Meehan,M001181
 1456 Ebenezer Road,Rock Hill,SC,29732,2339,SC,5,Rep,Mick Mulvaney,M001182
 400 North Main Street,Williamstown,KY,41097,1026,KY,4,Rep,Thomas Massie,M001184
 16 James Street,Middletown,NY,10940,5787,NY,18,Rep,Sean Maloney,M001185
@@ -281,7 +281,7 @@ PO Box 7248,Pago Pago,AS,96799,6296,AS,0,Rep,Eni Faleomavaega,F000010
 171 Southwest Flagler Avenue,Stuart,FL,34994,2139,FL,18,Rep,Patrick Murphy,M001191
 1900 Stubbs Avenue,Monroe,LA,71201,5751,LA,5,Rep,Vance McAllister,M001192
 201 Varick Street,New York,NY,10014,7069,NY,10,Rep,Jerrold Nadler,N000002
-300 State Street,Springfield,MA,01105,1686,MA,1,Rep,Richard Neal,N000015
+300 State Street,Springfield,MA,1105,1686,MA,1,Rep,Richard Neal,N000015
 6448 Main Street,North Branch,MN,55056,7068,MN,8,Rep,Richard Nolan,N000127
 "90 K Street, NE",Washington,DC,20001,4203,DC,0,Rep,Eleanor Norton,N000147
 510 East Foothill Boulevard,San Dimas,CA,91773,1254,CA,32,Rep,Grace Napolitano,N000179
@@ -294,13 +294,13 @@ PO Box 7248,Pago Pago,AS,96799,6296,AS,0,Rep,Eni Faleomavaega,F000010
 1650 Highway 6,Sugar Land,TX,77478,4921,TX,22,Rep,Pete Olson,O000168
 120 Washington Street,Watertown,NY,13601,3370,NY,21,Rep,William Owens,O000169
 310 North Mesa Street,El Paso,TX,79901,1301,TX,16,Rep,Beto O'Rourke,O000170
-69 Church St,New Brunswick,NJ,08901,1242,NJ,6,Rep,Frank Pallone,P000034
-200 Federal Plaza,Paterson,NJ,07505,1953,NJ,9,Rep,Bill Pascrell,P000096
+69 Church St,New Brunswick,NJ,8901,1242,NJ,6,Rep,Frank Pallone,P000034
+200 Federal Plaza,Paterson,NJ,7505,1953,NJ,9,Rep,Bill Pascrell,P000096
 411 North Central Avenue,Phoenix,AZ,85004,2120,AZ,7,Rep,Ed Pastor,P000099
 90 7th Street,San Francisco,CA,94103,6701,CA,12,Rep,Nancy Pelosi,P000197
 320 4th Street Southwest,Willmar,MN,56201,3300,MN,7,Rep,Collin Peterson,P000258
 2390 Highway 44,Oshkosh,WI,54904,6438,WI,6,Rep,Thomas Petri,P000265
-PO Box 837 ,Unionville,PA,19375,0837,PA,16,Rep,Joseph Pitts,P000373
+PO Box 837 ,Unionville,PA,19375,837,PA,16,Rep,Joseph Pitts,P000373
 5400 Trinity Road,Raleigh,NC,27607,3815,NC,4,Rep,David Price,P000523
 1717 West 2nd Street,Roswell,NM,88201,2029,NM,2,Rep,Stevan Pearce,P000588
 3730 Roswell Road,Marietta,GA,30062,8818,GA,6,Rep,Tom Price,P000591
@@ -308,21 +308,21 @@ PO Box 837 ,Unionville,PA,19375,0837,PA,16,Rep,Joseph Pitts,P000373
 1200 East 78th Avenue,Denver,CO,80229,5930,CO,7,Rep,Ed Perlmutter,P000593
 250 Prairie Center Drive,Eden Prairie,MN,55344,7904,MN,3,Rep,Erik Paulsen,P000594
 400 Monroe Street,Detroit,MI,48226,2944,MI,14,Rep,Gary Peters,P000595
-Urb Las Gladiolas,San Juan,PR,00926,3232,PR,0,Rep,Pedro Pierluisi,P000596
-2 Portland Fish Pier,Portland,ME,04101,4633,ME,1,Rep,Chellie Pingree,P000597
+356 AVE AMERICO MIRANDA STE 1,SAN JUAN,PR,927,5144,PR,0,Rep,Pedro Pierluisi,P000596
+2 Portland Fish Pier,Portland,ME,4101,4633,ME,1,Rep,Chellie Pingree,P000597
 123 North College Avenue,Fort Collins,CO,80524,2489,CO,2,Rep,Jared Polis,P000598
 2725 Judge Fran Jamieson Way,Melbourne,FL,32940,6605,FL,8,Rep,Bill Posey,P000599
 701 Main Street,Hattiesburg,MS,39401,3478,MS,4,Rep,Steven Palazzo,P000601
 155 North Market Street,Wichita,KS,67202,1818,KS,4,Rep,Mike Pompeo,P000602
-13 Municipal Plaza,Bloomfield,NJ,07003,3470,NJ,10,Rep,Donald Payne,P000604
+13 Municipal Plaza,Bloomfield,NJ,7003,3470,NJ,10,Rep,Donald Payne,P000604
 2209 East Market Street,East York,PA,17402,2853,PA,4,Rep,Scott Perry,P000605
-6525 Morrison Boulevard,Charlotte,NC,28211,0501,NC,9,Rep,Robert Pittenger,P000606
+6525 Morrison Boulevard,Charlotte,NC,28211,501,NC,9,Rep,Robert Pittenger,P000606
 10 East Doty Street,Madison,WI,53703,5103,WI,2,Rep,Mark Pocan,P000607
 4350 Executive Drive,San Diego,CA,92121,2115,CA,52,Rep,Scott Peters,P000608
 1057 West Belmont Avenue,Chicago,IL,60657,3327,IL,5,Rep,Mike Quigley,Q000023
 220 Dingess Street,Logan,WV,25601,3626,WV,3,Rep,Nick Rahall,R000011
 163 West 125th Street,New York,NY,10027,4404,NY,13,Rep,Charles Rangel,R000053
-Clifty Street,Somerset,KY,42501,1782,KY,5,Rep,Harold Rogers,R000395
+551 CLIFTY ST,SOMERSET,KY,42503,1782,KY,5,Rep,Harold Rogers,R000395
 610 Newport Center Drive,Newport Beach,CA,92660,8034,CA,48,Rep,Dana Rohrabacher,R000409
 4960 Southwest 72nd Avenue,Miami,FL,33155,5544,FL,27,Rep,Ileana Ros-Lehtinen,R000435
 4716 East Cesar E Chavez Avenue,East Los Angeles,CA,90022,1210,CA,40,Rep,Lucille Roybal-Allard,R000486
@@ -333,7 +333,7 @@ Clifty Street,Somerset,KY,42501,1782,KY,5,Rep,Harold Rogers,R000395
 1819 Pepperell Parkway,Opelika,AL,36801,5476,AL,3,Rep,Mike Rogers,R000575
 375 West Padonia Road,Lutherville-Timonium,MD,21093,2130,MD,2,Rep,C. Ruppersberger,R000576
 241 West Federal Street,Youngstown,OH,44503,1207,OH,13,Rep,Tim Ryan,R000577
-2 1st Street SE,Auburn,WA,98001,5453,WA,8,Rep,David Reichert,R000578
+22605 SE 56TH ST STE 130,ISSAQUAH,WA,98029,5297,WA,8,Rep,David Reichert,R000578
 6262 Route 83,Willowbrook,IL,60527,2987,IL,6,Rep,Peter Roskam,R000580
 1609 College Park Drive,Morristown,TN,37813,1659,TN,1,Rep,David Roe,R000582
 226 Taylor Street,Punta Gorda,FL,33950,4459,FL,17,Rep,Thomas Rooney,R000583
@@ -345,10 +345,10 @@ Clifty Street,Somerset,KY,42501,1782,KY,5,Rep,Harold Rogers,R000395
 7550 Halcyon Summit Drive,Montgomery,AL,36117,7008,AL,2,Rep,Martha Roby,R000591
 2680 West Main Street,Pittsboro,IN,46167,2829,IN,4,Rep,Todd Rokita,R000592
 110 West Reynolds Street,Plant City,FL,33563,3377,FL,15,Rep,Dennis Ross,R000593
-4167 Church Road,Mount Laurel,NJ,08010,2220,NJ,3,Rep,Jon Runyan,R000594
+4167 Church Road,Mount Laurel,NJ,8010,2220,NJ,3,Rep,Jon Runyan,R000594
 1800 North Oak Street,Myrtle Beach,SC,29577,3141,SC,7,Rep,Tom Rice,R000597
 118 West Main Street,Somerset,PA,15501,2047,PA,12,Rep,Keith Rothfus,R000598
-707 East Tahquitz Canyon Way,Palm Springs,CA,92262,0101,CA,36,Rep,Raul Ruiz,R000599
+707 East Tahquitz Canyon Way,Palm Springs,CA,92262,101,CA,36,Rep,Raul Ruiz,R000599
 207 North Gilbert Road,Gilbert,AZ,85234,5812,AZ,5,Rep,Matt Salmon,S000018
 1110 East Chapman Avenue,Orange,CA,92866,2145,CA,46,Rep,Loretta Sanchez,S000030
 2000 Sam Rittenberg Boulevard,Charleston,SC,29407,4631,SC,1,Rep,Marshall Sanford,S000051
@@ -360,8 +360,8 @@ Clifty Street,Somerset,KY,42501,1782,KY,5,Rep,Harold Rogers,R000395
 120 South Fair Street,Olney,IL,62450,2258,IL,15,Rep,John Shimkus,S000364
 1280 Titus Avenue,Rochester,NY,14617,4125,NY,25,Rep,Louise Slaughter,S000480
 2737 78th Avenue Southeast,Mercer Island,WA,98040,2843,WA,9,Rep,Adam Smith,S000510
-1540 Kuser Road,Hamilton Township,NJ,08619,3828,NJ,4,Rep,Christopher Smith,S000522
-1100 Northeast Interstate 410 Loop,San Antonio,TX,78209,1530,TX,21,Rep,Lamar Smith,S000583
+1540 Kuser Road,Hamilton Township,NJ,8619,3828,NJ,4,Rep,Christopher Smith,S000522
+1100 NE LOOP 410 STE 640,SAN ANTONIO,TX,78209,1530,TX,21,Rep,Lamar Smith,S000583
 420 Green Avenue,Orange,TX,77630,5803,TX,36,Rep,Steve Stockman,S000937
 820 Davis Street,Evanston,IL,60201,4400,IL,9,Rep,Janice Schakowsky,S001145
 1341 Fillmore Street,Twin Falls,ID,83301,3392,ID,2,Rep,Michael Simpson,S001148
@@ -370,9 +370,9 @@ Clifty Street,Somerset,KY,42501,1782,KY,5,Rep,Harold Rogers,R000395
 11627 Telegraph Road,Whittier,CA,90670,6810,CA,38,Rep,Linda Sanchez,S001156
 888 Concord Road Southeast,Smyrna,GA,30080,4202,GA,13,Rep,David Scott,S001157
 706 West Avenue,Jenkintown,PA,19046,2710,PA,13,Rep,Allyson Schwartz,S001162
-121 Newark Avenue,Jersey City,NJ,07201,2811,NJ,8,Rep,Albio Sires,S001165
+121 Newark Avenue,Jersey City,NJ,7201,2811,NJ,8,Rep,Albio Sires,S001165
 600 Baltimore Avenue,Towson,MD,21204,4022,MD,3,Rep,John Sarbanes,S001168
-14 Hancock St,Portsmouth,NH,03801,4669,NH,1,Rep,Carol Shea-Porter,S001170
+14 Hancock St,Portsmouth,NH,3801,4669,NH,1,Rep,Carol Shea-Porter,S001170
 416 Valley View Drive,Scottsbluff,NE,69361,1445,NE,3,Rep,Adrian Smith,S001172
 400 South El Camino Real,San Mateo,CA,94402,1761,CA,14,Rep,Jackie Speier,S001175
 110 Veterans Memorial Boulevard,Metairie,LA,70005,4970,LA,1,Rep,Steve Scalise,S001176
@@ -390,14 +390,14 @@ PO Box 504879 ,Capitol Hill,Saipan,96950,4310,MP,0,Rep,Gregorio Sablan,S001177
 136 E South Temple,Salt Lake City,UT,84111,1180,UT,2,Rep,Chris Stewart,S001192
 5776 Stoneridge Mall Road,Pleasanton,CA,94588,2836,CA,15,Rep,Eric Swalwell,S001193
 35 Court Square,West Plains,MO,65775,3453,MO,8,Rep,Jason Smith,S001195
-509 U.S. 82,Greenwood,MS,38930,5030,MS,2,Rep,Bennie Thompson,T000193
+910 COURTHOUSE LN STE A,GREENVILLE,MS,38701,3712,MS,2,Rep,Bennie Thompson,T000193
 4245 Kemp Boulevard,Wichita Falls,TX,76308,2829,TX,13,Rep,Mac Thornberry,T000238
-17 Peabody Square,Peabody,MA,01960,5646,MA,6,Rep,John Tierney,T000266
+17 Peabody Square,Peabody,MA,1960,5646,MA,6,Rep,John Tierney,T000266
 11717 Burt Street,Omaha,NE,68154,1500,NE,2,Rep,Lee Terry,T000459
 375 G Street,Vallejo,CA,94592,5706,CA,5,Rep,Mike Thompson,T000460
 1166 Military Road,Zanesville,OH,43701,1562,OH,12,Rep,Patrick Tiberi,T000462
 120 West 3rd Street,Dayton,OH,45402,1819,OH,10,Rep,Michael Turner,T000463
-33 Lowell Street,Andover,MA,01840,1641,MA,3,Rep,Niki Tsongas,T000465
+10 WELCOME ST,HAVERHILL,MA,1830,5631,MA,3,Rep,Niki Tsongas,T000465
 127 West Spring Street,Titusville,PA,16354,1727,PA,5,Rep,Glenn Thompson,T000467
 2340 Paseo Del Prado,Las Vegas,NV,89102,4340,NV,1,Rep,Dina Titus,T000468
 105 Jay Street,Schenectady,NY,12305,1905,NY,20,Rep,Paul Tonko,T000469
@@ -407,10 +407,10 @@ PO Box 504879 ,Capitol Hill,Saipan,96950,4310,MP,0,Rep,Gregorio Sablan,S001177
 16 Court Street,Brooklyn,NY,11241,1010,NY,7,Rep,Nydia Velazquez,V000081
 100 East Michigan Boulevard,Michigan City,IN,46360,3271,IN,1,Rep,Peter Visclosky,V000108
 412 Malcolm Drive,Westminster,MD,21157,6174,MD,8,Rep,Chris Van Hollen,V000128
-2700 M Street,Bakersfield,CA,93301,2374,CA,21,Rep,David Valadao,V000129
+101 N IRWIN ST STE 110B,HANFORD,CA,93230,4579,CA,21,Rep,David Valadao,V000129
 333 F Street,Chula Vista,CA,91910,2624,CA,51,Rep,Juan Vargas,V000130
 1100 Circle Drive,Fort Worth,TX,76119,8111,TX,33,Rep,Marc Veasey,V000131
-1805 East Ruben M Torres Sr Boulevard,Brownsville,TX,78521,1115,TX,34,Rep,Filemon Vela,V000132
+333 EBONY AVE,BROWNSVILLE,TX,78520,8015,TX,34,Rep,Filemon Vela,V000132
 10124 Broadway,Los Angeles,CA,90003,4353,CA,43,Rep,Maxine Waters,W000187
 8436 West 3rd Street,Los Angeles,CA,90048,4183,CA,33,Rep,Henry Waxman,W000215
 200 North Main Street,Tompkinsville,KY,42167,1548,KY,1,Rep,Ed Whitfield,W000413
@@ -421,10 +421,10 @@ PO Box 2381 ,West Columbia,SC,29171,2381,SC,2,Rep,Joe Wilson,W000795
 9293 Harding Avenue,Surfside,FL,33154,3009,FL,23,Rep,Debbie Wasserman Schultz,W000797
 23 East Front Street,Monroe,MI,48161,2256,MI,7,Rep,Tim Walberg,W000798
 1134 7th Street Northwest,Rochester,MN,55901,1732,MN,1,Rep,Timothy Walz,W000799
-32 Main Street,Burlington,VT,03561,4072,VT,0,Rep,Peter Welch,W000800
+32 Main Street,Burlington,VT,3561,4072,VT,0,Rep,Peter Welch,W000800
 4904 George Washington Memorial Highway,Yorktown,VA,23692,2769,VA,1,Rep,Robert Wittman,W000804
 300 West Plant Street,Winter Garden,FL,34787,3009,FL,10,Rep,Daniel Webster,W000806
-10100 Pines Boulevard,Pembroke Pines,FL,33026,6040,FL,24,Rep,Frederica Wilson,W000808
+18425 NW 2ND AVE STE 355,MIAMI GARDENS,FL,33169,4525,FL,24,Rep,Frederica Wilson,W000808
 3333 South Pinnacle Hills Parkway,Rogers,AR,72758,8979,AR,3,Rep,Steve Womack,W000809
 75 Langley Drive,Lawrenceville,GA,30046,6935,GA,7,Rep,Rob Woodall,W000810
 8764 Manchester Road,Brentwood,MO,63144,2735,MO,2,Rep,Ann Wagner,W000812
@@ -437,103 +437,103 @@ PO Box 2381 ,West Columbia,SC,29171,2381,SC,2,Rep,Joe Wilson,W000795
 500 State Avenue,Kansas City,KS,66101,2409,KS,3,Rep,Kevin Yoder,Y000063
 Quartermaster Court,Jeffersonville,IN,47130,3669,IN,9,Rep,Todd Young,Y000064
 1726 Kingsley Avenue,Orange Park,FL,32073,4411,FL,3,Rep,Ted Yoho,Y000065
-333 F Street,Chula Vista,CA,91910,2624,TN,,Sen,Lamar Alexander,A000360
-110 West Reynolds Street,Plant City,FL,33563,3377,NH,,Sen,Kelly Ayotte,A000368
-110 West Reynolds Street,Plant City,FL,33563,3377,MO,,Sen,Roy Blunt,B000575
-4322 Wilshire Boulevard,Los Angeles,CA,90010,3794,CA,,Sen,Barbara Boxer,B000711
-61 East Main Street,Wilmington,OH,45177,2330,OH,,Sen,Sherrod Brown,B000944
-110 West Reynolds Street,Plant City,FL,33563,3377,NC,,Sen,Richard Burr,B001135
-1726 Kingsley Avenue,Orange Park,FL,32073,4411,WI,,Sen,Tammy Baldwin,B001230
-1011 George Wallace Boulevard,Tuscumbia,AL,35674,1726,AR,,Sen,John Boozman,B001236
-1726 Kingsley Avenue,Orange Park,FL,32073,4411,WY,,Sen,John Barrasso,B001261
-540 Water Street,Ketchikan,AK,99901,6378,AK,,Sen,Mark Begich,B001265
-1661 North Swan Road,Tucson,AZ,85712,4051,CO,,Sen,Michael Bennet,B001267
-1661 North Swan Road,Tucson,AZ,85712,4051,CT,,Sen,Richard Blumenthal,B001277
-108 Lacey Road,Lacey Township,NJ,08759,1331,NJ,,Sen,Cory Booker,B001288
-1726 Kingsley Avenue,Orange Park,FL,32073,4411,WA,,Sen,Maria Cantwell,C000127
-110 West Reynolds Street,Plant City,FL,33563,3377,MD,,Sen,Benjamin Cardin,C000141
-1661 North Swan Road,Tucson,AZ,85712,4051,DE,,Sen,Thomas Carper,C000174
-100 Peachtree Street Northwest,Atlanta,GA,30303,1906,GA,,Sen,Saxby Chambliss,C000286
-1819 Pepperell Parkway,Opelika,AL,36801,5476,IN,,Sen,Daniel Coats,C000542
-333 F Street,Chula Vista,CA,91910,2624,OK,,Sen,Thomas Coburn,C000560
-110 West Reynolds Street,Plant City,FL,33563,3377,MS,,Sen,Thad Cochran,C000567
-221 Main Street,Hartford,CT,06106,1890,ID,,Sen,Michael Crapo,C000880
-110 West Reynolds Street,Plant City,FL,33563,3377,ME,,Sen,Susan Collins,C001035
-1805 East Ruben M Torres Sr Boulevard,Brownsville,TX,78521,1115,TX,,Sen,John Cornyn,C001056
-333 F Street,Chula Vista,CA,91910,2624,PA,,Sen,Robert Casey,C001070
-333 F Street,Chula Vista,CA,91910,2624,TN,,Sen,Bob Corker,C001071
-1661 North Swan Road,Tucson,AZ,85712,4051,DE,,Sen,Chris Coons,C001088
-1805 East Ruben M Torres Sr Boulevard,Brownsville,TX,78521,1115,TX,,Sen,Ted Cruz,C001098
-3235 147th Street,Midlothian,IL,60445,3656,IL,,Sen,Richard Durbin,D000563
-1819 Pepperell Parkway,Opelika,AL,36801,5476,IN,,Sen,Joe Donnelly,D000607
-1726 Kingsley Avenue,Orange Park,FL,32073,4411,WY,,Sen,Michael Enzi,E000285
-4322 Wilshire Boulevard,Los Angeles,CA,90010,3794,CA,,Sen,Dianne Feinstein,F000062
-1011 George Wallace Boulevard,Tuscumbia,AL,35674,1726,AZ,,Sen,Jeff Flake,F000444
-110 West Reynolds Street,Plant City,FL,33563,3377,MN,,Sen,Alan Franken,F000457
-110 West Reynolds Street,Plant City,FL,33563,3377,NE,,Sen,Deb Fischer,F000463
-333 F Street,Chula Vista,CA,91910,2624,SC,,Sen,Lindsey Graham,G000359
-221 Main Street,Hartford,CT,06106,1890,IA,,Sen,Charles Grassley,G000386
-1231 Lafayette Avenue,Bronx,NY,10474,5331,NY,,Sen,Kirsten Gillibrand,G000555
-221 Main Street,Hartford,CT,06106,1890,IA,,Sen,Thomas Harkin,H000206
-1726 Kingsley Avenue,Orange Park,FL,32073,4411,UT,,Sen,Orrin Hatch,H000338
-108 Lacey Road,Lacey Township,NJ,08759,1331,NV,,Sen,Dean Heller,H001041
-221 Main Street,Hartford,CT,06106,1890,HI,,Sen,Mazie Hirono,H001042
-108 Lacey Road,Lacey Township,NJ,08759,1331,NM,,Sen,Martin Heinrich,H001046
-110 West Reynolds Street,Plant City,FL,33563,3377,NC,,Sen,Kay Hagan,H001049
-110 West Reynolds Street,Plant City,FL,33563,3377,ND,,Sen,John Hoeven,H001061
-110 West Reynolds Street,Plant City,FL,33563,3377,ND,,Sen,Heidi Heitkamp,H001069
-333 F Street,Chula Vista,CA,91910,2624,OK,,Sen,James Inhofe,I000024
-100 Peachtree Street Northwest,Atlanta,GA,30303,1906,GA,,Sen,John Isakson,I000055
-333 F Street,Chula Vista,CA,91910,2624,SD,,Sen,Tim Johnson,J000177
-110 West Reynolds Street,Plant City,FL,33563,3377,NE,,Sen,Mike Johanns,J000291
-1726 Kingsley Avenue,Orange Park,FL,32073,4411,WI,,Sen,Ron Johnson,J000293
-3235 147th Street,Midlothian,IL,60445,3656,IL,,Sen,Mark Kirk,K000360
-110 West Reynolds Street,Plant City,FL,33563,3377,MN,,Sen,Amy Klobuchar,K000367
-110 West Reynolds Street,Plant City,FL,33563,3377,ME,,Sen,Angus King,K000383
-1726 Kingsley Avenue,Orange Park,FL,32073,4411,VA,,Sen,Timothy Kaine,K000384
-1726 Kingsley Avenue,Orange Park,FL,32073,4411,VT,,Sen,Patrick Leahy,L000174
-110 West Reynolds Street,Plant City,FL,33563,3377,MI,,Sen,Carl Levin,L000261
-2021 Lakeshore Drive,New Orleans,LA,70122,3501,LA,,Sen,Mary Landrieu,L000550
-1726 Kingsley Avenue,Orange Park,FL,32073,4411,UT,,Sen,Mike Lee,L000577
-110 West Reynolds Street,Plant City,FL,33563,3377,MA,,Sen,Edward Markey,M000133
-1011 George Wallace Boulevard,Tuscumbia,AL,35674,1726,AZ,,Sen,John McCain,M000303
-1819 Pepperell Parkway,Opelika,AL,36801,5476,KY,,Sen,Mitch McConnell,M000355
-108 Lacey Road,Lacey Township,NJ,08759,1331,NJ,,Sen,Robert Menendez,M000639
-110 West Reynolds Street,Plant City,FL,33563,3377,MD,,Sen,Barbara Mikulski,M000702
-1819 Pepperell Parkway,Opelika,AL,36801,5476,KS,,Sen,Jerry Moran,M000934
-1726 Kingsley Avenue,Orange Park,FL,32073,4411,WA,,Sen,Patty Murray,M001111
-540 Water Street,Ketchikan,AK,99901,6378,AK,,Sen,Lisa Murkowski,M001153
-1661 North Swan Road,Tucson,AZ,85712,4051,CT,,Sen,Christopher Murphy,M001169
-110 West Reynolds Street,Plant City,FL,33563,3377,MO,,Sen,Claire McCaskill,M001170
-333 F Street,Chula Vista,CA,91910,2624,OR,,Sen,Jeff Merkley,M001176
-1726 Kingsley Avenue,Orange Park,FL,32073,4411,WV,,Sen,Joe Manchin,M001183
-3000 North Ponce De Leon Boulevard,St. Augustine,FL,32084,8600,FL,,Sen,Bill Nelson,N000032
-61 East Main Street,Wilmington,OH,45177,2330,OH,,Sen,Robert Portman,P000449
-1011 George Wallace Boulevard,Tuscumbia,AL,35674,1726,AR,,Sen,Mark Pryor,P000590
-1819 Pepperell Parkway,Opelika,AL,36801,5476,KY,,Sen,Rand Paul,P000603
-333 F Street,Chula Vista,CA,91910,2624,RI,,Sen,John Reed,R000122
-108 Lacey Road,Lacey Township,NJ,08759,1331,NV,,Sen,Harry Reid,R000146
-1819 Pepperell Parkway,Opelika,AL,36801,5476,KS,,Sen,Pat Roberts,R000307
-1726 Kingsley Avenue,Orange Park,FL,32073,4411,WV,,Sen,John Rockefeller,R000361
-221 Main Street,Hartford,CT,06106,1890,ID,,Sen,James Risch,R000584
-3000 North Ponce De Leon Boulevard,St. Augustine,FL,32084,8600,FL,,Sen,Marco Rubio,R000595
-1726 Kingsley Avenue,Orange Park,FL,32073,4411,VT,,Sen,Bernard Sanders,S000033
-1231 Lafayette Avenue,Bronx,NY,10474,5331,NY,,Sen,Charles Schumer,S000148
-1011 George Wallace Boulevard,Tuscumbia,AL,35674,1726,AL,,Sen,Richard Shelby,S000320
-110 West Reynolds Street,Plant City,FL,33563,3377,MI,,Sen,Debbie Stabenow,S000770
-1011 George Wallace Boulevard,Tuscumbia,AL,35674,1726,AL,,Sen,Jefferson Sessions,S001141
-110 West Reynolds Street,Plant City,FL,33563,3377,NH,,Sen,Jeanne Shaheen,S001181
-333 F Street,Chula Vista,CA,91910,2624,SC,,Sen,Tim Scott,S001184
-221 Main Street,Hartford,CT,06106,1890,HI,,Sen,Brian Schatz,S001194
-333 F Street,Chula Vista,CA,91910,2624,SD,,Sen,John Thune,T000250
-333 F Street,Chula Vista,CA,91910,2624,PA,,Sen,Patrick Toomey,T000461
-110 West Reynolds Street,Plant City,FL,33563,3377,MT,,Sen,Jon Tester,T000464
-1661 North Swan Road,Tucson,AZ,85712,4051,CO,,Sen,Mark Udall,U000038
-108 Lacey Road,Lacey Township,NJ,08759,1331,NM,,Sen,Tom Udall,U000039
-2021 Lakeshore Drive,New Orleans,LA,70122,3501,LA,,Sen,David Vitter,V000127
-110 West Reynolds Street,Plant City,FL,33563,3377,MS,,Sen,Roger Wicker,W000437
-333 F Street,Chula Vista,CA,91910,2624,OR,,Sen,Ron Wyden,W000779
-333 F Street,Chula Vista,CA,91910,2624,RI,,Sen,Sheldon Whitehouse,W000802
-1726 Kingsley Avenue,Orange Park,FL,32073,4411,VA,,Sen,Mark Warner,W000805
-110 West Reynolds Street,Plant City,FL,33563,3377,MA,,Sen,Elizabeth Warren,W000817
-110 West Reynolds Street,Plant City,FL,33563,3377,MT,,Sen,John Walsh,W000818
+305 PUBLIC SQ STE 212,FRANKLIN,TN,37064,2584,TN,7,Sen,Lamar Alexander,A000360
+18 North Main Street,Concord,NH,3301,2424,NH,2,Sen,Kelly Ayotte,A000368
+8021 West Florissant Avenue,Jennings,MO,63136,1449,MO,1,Sen,Roy Blunt,B000575
+255 East Temple Street,Los Angeles,CA,90012,3334,CA,34,Sen,Barbara Boxer,B000711
+7969 Cincinnati Dayton Road,West Chester Township,OH,45069,6637,OH,8,Sen,Sherrod Brown,B000944
+216 Nash Street Northwest,Wilson,NC,27893,3802,NC,1,Sen,Richard Burr,B001135
+208 Grand Avenue,Wausau,WI,54403,6217,WI,7,Sen,Tammy Baldwin,B001230
+2400 East Highland Drive,Jonesboro,AR,72401,6229,AR,1,Sen,John Boozman,B001236
+45 East Loucks Street,Sheridan,WY,82801,6331,WY,0,Sen,John Barrasso,B001261
+540 Water Street,Ketchikan,AK,99901,6378,AK,0,Sen,Mark Begich,B001265
+3300 S. Parker Road,Aurora,CO,80014,3518,CO,6,Sen,Michael Bennet,B001267
+77 Hazard Avenue,Enfield,CT,6082,3890,CT,2,Sen,Richard Blumenthal,B001277
+30 Schuyler Place,Morristown,NJ,7960,5193,NJ,11,Sen,Cory Booker,B001288
+204 W. Montgomery Street,Mount Vernon,WA,98273,3843,WA,1,Sen,Maria Cantwell,C000127
+8267 Main Street,Ellicott City,MD,21043,9903,MD,7,Sen,Benjamin Cardin,C000141
+201 North Walnut Street,Wilmington,DE,19801,3998,DE,0,Sen,Thomas Carper,C000174
+18 9th Street,Columbus,GA,31901,2778,GA,2,Sen,Saxby Chambliss,C000286
+901 Wabash Avenue,Terre Haute,IN,47807,3232,IN,8,Sen,Daniel Coats,C000542
+5727 South Lewis Avenue,Tulsa,OK,74105,7146,OK,1,Sen,Thomas Coburn,C000560
+1 Research Boulevard,Starkville,MS,39759,8749,MS,3,Sen,Thad Cochran,C000567
+33 East Broadway Avenue,Meridian,ID,83642,2619,ID,1,Sen,Michael Crapo,C000880
+6 State Street,Bangor,ME,4401,5112,ME,2,Sen,Susan Collins,C001035
+2106 West Ennis Avenue,Ennis,TX,75119,3624,TX,6,Sen,John Cornyn,C001056
+1907 S BROAD ST # 09,PHILADELPHIA,PA,19148,2216,PA,1,Sen,Robert Casey,C001070
+305 PUBLIC SQ STE 212,FRANKLIN,TN,37064,2584,TN,7,Sen,Bob Corker,C001071
+201 North Walnut Street,Wilmington,DE,19801,3998,DE,0,Sen,Chris Coons,C001088
+2106 West Ennis Avenue,Ennis,TX,75119,3624,TX,6,Sen,Ted Cruz,C001098
+100 Northeast Monroe Street,Peoria,IL,61602,1047,IL,17,Sen,Richard Durbin,D000563
+901 Wabash Avenue,Terre Haute,IN,47807,3232,IN,8,Sen,Joe Donnelly,D000607
+45 East Loucks Street,Sheridan,WY,82801,6331,WY,0,Sen,Michael Enzi,E000285
+255 East Temple Street,Los Angeles,CA,90012,3334,CA,34,Sen,Dianne Feinstein,F000062
+1661 North Swan Road,Tucson,AZ,85712,4051,AZ,2,Sen,Jeff Flake,F000444
+110 2nd Street South,Waite Park,MN,56387,1313,MN,6,Sen,Alan Franken,F000457
+125 South 4th Street,Norfolk,NE,68701,5200,NE,1,Sen,Deb Fischer,F000463
+130 W MAIN ST,KINGSTREE,SC,29556,3344,SC,6,Sen,Lindsey Graham,G000359
+501 Sycamore Street,Waterloo,IA,50703,4051,IA,1,Sen,Charles Grassley,G000386
+137 Hampton Road,Southampton,NY,11968,4923,NY,1,Sen,Kirsten Gillibrand,G000555
+501 Sycamore Street,Waterloo,IA,50703,4051,IA,1,Sen,Thomas Harkin,H000206
+324 25TH ST STE 1017,OGDEN,UT,84401,2361,UT,1,Sen,Orrin Hatch,H000338
+400 South Virginia Street,Reno,NV,89501,2116,NV,2,Sen,Dean Heller,H001041
+300 Ala Moana Blvd,Honolulu,HI,96850,1,HI,2,Sen,Mazie Hirono,H001042
+811 Saint Michaels Drive,Santa Fe,NM,87505,7640,NM,3,Sen,Martin Heinrich,H001046
+216 Nash Street Northwest,Wilson,NC,27893,3802,NC,1,Sen,Kay Hagan,H001049
+3003 32nd Avenue South,Fargo,ND,58103,6163,ND,0,Sen,John Hoeven,H001061
+3003 32nd Avenue South,Fargo,ND,58103,6163,ND,0,Sen,Heidi Heitkamp,H001069
+5727 South Lewis Avenue,Tulsa,OK,74105,7146,OK,1,Sen,James Inhofe,I000024
+18 9th Street,Columbus,GA,31901,2778,GA,2,Sen,John Isakson,I000055
+505 12th Street Southeast,Watertown,SD,57201,4973,SD,0,Sen,Tim Johnson,J000177
+125 South 4th Street,Norfolk,NE,68701,5200,NE,1,Sen,Mike Johanns,J000291
+208 Grand Avenue,Wausau,WI,54403,6217,WI,7,Sen,Ron Johnson,J000293
+100 Northeast Monroe Street,Peoria,IL,61602,1047,IL,17,Sen,Mark Kirk,K000360
+110 2nd Street South,Waite Park,MN,56387,1313,MN,6,Sen,Amy Klobuchar,K000367
+6 State Street,Bangor,ME,4401,5112,ME,2,Sen,Angus King,K000383
+4201 Dominion Boulevard,Glen Allen,VA,23060,6149,VA,7,Sen,Timothy Kaine,K000384
+32 Main Street,Burlington,VT,3561,4072,VT,0,Sen,Patrick Leahy,L000174
+110 Michigan Street Northeast,Grand Rapids,MI,49503,2313,MI,3,Sen,Carl Levin,L000261
+One Lakeshore Drive,Lake Charles,LA,70629,114,LA,3,Sen,Mary Landrieu,L000550
+324 25TH ST STE 1017,OGDEN,UT,84401,2361,UT,1,Sen,Mike Lee,L000577
+1234 Columbus Avenue,Boston,MA,2120,3400,MA,7,Sen,Edward Markey,M000133
+1661 North Swan Road,Tucson,AZ,85712,4051,AZ,2,Sen,John McCain,M000303
+1010 Monarch Street,Lexington,KY,40513,1866,KY,6,Sen,Mitch McConnell,M000355
+30 Schuyler Place,Morristown,NJ,7960,5193,NJ,11,Sen,Robert Menendez,M000639
+8267 Main Street,Ellicott City,MD,21043,9903,MD,7,Sen,Barbara Mikulski,M000702
+119 West Iron Avenue,Salina,KS,67402,2600,KS,1,Sen,Jerry Moran,M000934
+204 W. Montgomery Street,Mount Vernon,WA,98273,3843,WA,1,Sen,Patty Murray,M001111
+540 Water Street,Ketchikan,AK,99901,6378,AK,0,Sen,Lisa Murkowski,M001153
+77 Hazard Avenue,Enfield,CT,6082,3890,CT,2,Sen,Christopher Murphy,M001169
+8021 West Florissant Avenue,Jennings,MO,63136,1449,MO,1,Sen,Claire McCaskill,M001170
+729 Northeast Oregon Street,Portland,OR,97232,2184,OR,3,Sen,Jeff Merkley,M001176
+300 Foxcroft Avenue,Martinsburg,WV,25401,5341,WV,2,Sen,Joe Manchin,M001183
+613 Saint Johns Avenue,Palatka,FL,32177,4643,FL,5,Sen,Bill Nelson,N000032
+7969 Cincinnati Dayton Road,West Chester Township,OH,45069,6637,OH,8,Sen,Robert Portman,P000449
+2400 East Highland Drive,Jonesboro,AR,72401,6229,AR,1,Sen,Mark Pryor,P000590
+1010 Monarch Street,Lexington,KY,40513,1866,KY,6,Sen,Rand Paul,P000603
+1070 Main Street,Pawtucket,RI,2860,4974,RI,1,Sen,John Reed,R000122
+400 South Virginia Street,Reno,NV,89501,2116,NV,2,Sen,Harry Reid,R000146
+119 West Iron Avenue,Salina,KS,67402,2600,KS,1,Sen,Pat Roberts,R000307
+300 Foxcroft Avenue,Martinsburg,WV,25401,5341,WV,2,Sen,John Rockefeller,R000361
+33 East Broadway Avenue,Meridian,ID,83642,2619,ID,1,Sen,James Risch,R000584
+613 Saint Johns Avenue,Palatka,FL,32177,4643,FL,5,Sen,Marco Rubio,R000595
+32 Main Street,Burlington,VT,3561,4072,VT,0,Sen,Bernard Sanders,S000033
+137 Hampton Road,Southampton,NY,11968,4923,NY,1,Sen,Charles Schumer,S000148
+1011 George Wallace Boulevard,Tuscumbia,AL,35674,1726,AL,4,Sen,Richard Shelby,S000320
+110 Michigan Street Northeast,Grand Rapids,MI,49503,2313,MI,3,Sen,Debbie Stabenow,S000770
+1011 George Wallace Boulevard,Tuscumbia,AL,35674,1726,AL,4,Sen,Jefferson Sessions,S001141
+18 North Main Street,Concord,NH,3301,2424,NH,2,Sen,Jeanne Shaheen,S001181
+130 W MAIN ST,KINGSTREE,SC,29556,3344,SC,6,Sen,Tim Scott,S001184
+300 Ala Moana Blvd,Honolulu,HI,96850,1,HI,2,Sen,Brian Schatz,S001194
+505 12th Street Southeast,Watertown,SD,57201,4973,SD,0,Sen,John Thune,T000250
+1907 S BROAD ST # 09,PHILADELPHIA,PA,19148,2216,PA,1,Sen,Patrick Toomey,T000461
+2603 Wheat Drive,Bozeman,MT,56750,4800,MT,0,Sen,Jon Tester,T000464
+3300 S. Parker Road,Aurora,CO,80014,3518,CO,6,Sen,Mark Udall,U000038
+811 Saint Michaels Drive,Santa Fe,NM,87505,7640,NM,3,Sen,Tom Udall,U000039
+One Lakeshore Drive,Lake Charles,LA,70629,114,LA,3,Sen,David Vitter,V000127
+1 Research Boulevard,Starkville,MS,39759,8749,MS,3,Sen,Roger Wicker,W000437
+729 Northeast Oregon Street,Portland,OR,97232,2184,OR,3,Sen,Ron Wyden,W000779
+1070 Main Street,Pawtucket,RI,2860,4974,RI,1,Sen,Sheldon Whitehouse,W000802
+4201 Dominion Boulevard,Glen Allen,VA,23060,6149,VA,7,Sen,Mark Warner,W000805
+1234 Columbus Avenue,Boston,MA,2120,3400,MA,7,Sen,Elizabeth Warren,W000817
+2603 Wheat Drive,Bozeman,MT,56750,4800,MT,0,Sen,John Walsh,W000818
